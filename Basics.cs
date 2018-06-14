@@ -45,7 +45,7 @@ namespace Basics {
                 case 1:
                 case 2:
                 case 3:
-                    Console.WriteLine("You chose {0}");
+                    Console.WriteLine("You chose {0}", choice);
                     break;
                 default:
                     Console.WriteLine("You made an unknown choice");
